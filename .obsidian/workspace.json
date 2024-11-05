@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "a177fb5b3c5dc7c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ebbf2e110f6e2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0941a9987770e13e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "357288842099b74e",
+    "type": "split",
+    "children": [
+      {
+        "id": "32c9a90742ecf259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a932fd9bf81f47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "543c11c16e29271e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2fd1c3099612976c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a7f5d1f415828662",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1063f12457566d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb4c44d5c43fbff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-10-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-28"
+            }
+          },
+          {
+            "id": "2911835ebf040118",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-10-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-28"
+            }
+          },
+          {
+            "id": "166fbe115e3169e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42acfe2977c3e2d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-10-28.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-28"
+            }
+          },
+          {
+            "id": "f1984afc9f04c9f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "55a932fd9bf81f47",
+  "lastOpenFiles": [
+    "Zettelskasten",
+    "Index/Index of Books.md",
+    "Index",
+    "personal/Book/1730598400-howtotakesmartnote.md~",
+    "Topics",
+    "Projects",
+    "personal/1730617895-getting-things-done.md~",
+    "personal/1730617895-getting-things-done.md",
+    "personal/English/Dictionary/1730599727-endeavor.md",
+    "personal/template.md",
+    "personal/English/Dictionary/1730537055-chore.md",
+    "personal/English/Dictionary/1730607848-procrastination.md~",
+    "personal/English/Dictionary/1730607848-procrastination.md",
+    "personal/Book/1730598400-howtotakesmartnote.md",
+    "personal/English/Dictionary/1730599154-intellectual.md",
+    "personal/Book/template.md",
+    "personal/Book",
+    "personal/Programming/Dart/1730541501-extends.md~",
+    "personal/Programming/Dart/1730541248-class.md",
+    "personal/PKM/1730547189-pkm.md",
+    "personal/PKM/template.md",
+    "personal/PKM",
+    "Inbox/1730546941-venn-diagram.md",
+    "Inbox/template.md",
+    "personal/Programming/Dart/1730544800-dart.md",
+    "personal/Programming/Dart/1730541501-extends.md",
+    "personal/AppDev/1730539067-flutterbloc.md",
+    "personal/Programming/Dart/template.md",
+    "personal/Programming/Dart",
+    "personal/AppDev/template.md",
+    "personal/English/Dictionary/1730538036-enjoyment.md",
+    "personal/English/Dictionary/1730537952-pleasure.md",
+    "personal/English/Dictionary/1730537806-antonyms.md",
+    "personal/English/Dictionary/1730537684-synonyms.md",
+    "personal/English/Dictionary/1730537542-test.md",
+    "personal/English/Dictionary/1730537393--job.md"
+  ]
+}
