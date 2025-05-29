@@ -1,5 +1,5 @@
 ---
-id: 22-05-2025*network-topologies
+id: 22-05-2025_network-topologies
 aliases:
   - Network-Topologies
   - Summary

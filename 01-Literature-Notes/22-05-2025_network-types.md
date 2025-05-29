@@ -1,5 +1,5 @@
 ---
-id: 22-05-2025*network-types
+id: 22-05-2025_network-types
 aliases: []
 tags:
   - #literature

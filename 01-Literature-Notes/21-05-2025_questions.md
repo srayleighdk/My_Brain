@@ -1,5 +1,5 @@
 ---
-id: 21-05-2025*questions
+id: 21-05-2025_questions
 aliases:
   - Questions
 tags: []
